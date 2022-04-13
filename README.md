@@ -17,5 +17,5 @@ Usage
 Java class creation and update with code:
 `javac application.java`
 
-open the application with code:
+Open the application with code:
 `java -cp .:mysql-connector-java-5.1.47.jar application.java`
